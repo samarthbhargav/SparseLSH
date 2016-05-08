@@ -5,7 +5,7 @@ A locality sensitive hashing library with an emphasis on large, highly-dimension
 
 Features
 --------
-
+- It's super fun!
 - Fast and memory-efficient calculations using sparse matrices.
 - Built-in support for key-value storage backends: pure-python, Redis (memory-bound), LevelDB, BerkeleyDB
 - Multiple hash indexes support (based on Kay Zhu's lshash)
